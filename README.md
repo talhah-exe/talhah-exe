@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently studying **CS in Mehran UET...**
 
-<img align = "right" alt="coding" widht = "400" src ="https://dribbble.com/shots/13948829/attachments/5560392?mode=media"/>
+<img align = "right" alt="coding" widht = "400" src ="https://dribbble.com/shots/13948829/attachments/5560392?mode=media" />
 - 👯 I’m looking to collaborate with **Microsoft & Google IA...**
 
 - 📫 How to reach me **talhamirani55@gmail.com**
