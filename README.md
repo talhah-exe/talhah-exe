@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/xesaimgod" target="blank"><img src="https://img.shields.io/twitter/follow/xesaimgod?logo=twitter&style=for-the-badge" alt="xesaimgod" /></a> </p>
 
-<img align="right" alt="coding" width="500px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
+<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 
-- 🔭 I’m currently working on **Data, Ethical Hacking...**
+- 🔭 I’m currently working on **Data & Ethical Hacking...**
 
 - 🌱 I’m currently studying **CS in Mehran UET...**
 
