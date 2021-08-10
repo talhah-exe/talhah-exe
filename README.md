@@ -8,9 +8,8 @@
 <p align="left"> <a href="https://twitter.com/xesaimgod" target="blank"><img src="https://img.shields.io/twitter/follow/xesaimgod?logo=twitter&style=for-the-badge" alt="xesaimgod" /></a> </p>
 
 - 🔭 I’m currently working on **Data, Ethical Hacking...**
-
+<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/2939235/screenshots/13948829/media/48dc1d6d2325ea5e67657e19202fd95a.png?compress=1&resize=800x600" />
 - 🌱 I’m currently studying **CS in Mehran UET...**
-<img align="right" alt="coding" width="100px" src="https://cdn.dribbble.com/users/2939235/screenshots/13948829/media/48dc1d6d2325ea5e67657e19202fd95a.png?compress=1&resize=800x600" />
 
 - 🙌 I’m looking to collaborate with **Microsoft & Google IA...**
 
