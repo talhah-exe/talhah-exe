@@ -6,7 +6,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhah-exe" alt="talhah-exe" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/xesaimgod" target="blank"><img src="https://img.shields.io/twitter/follow/xesaimgod?logo=twitter&style=for-the-badge" alt="xesaimgod" /></a> </p>
-<img align="right" alt="coding" width="500px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif />
+
+<img align="right" alt="coding" width="500px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 
 - 🔭 I’m currently working on **Data, Ethical Hacking...**
 
